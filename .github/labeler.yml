@@ -1,0 +1,14 @@
+documentation:
+  - README.*
+
+dependencies:
+  - requirements.txt
+
+github/ci:
+  - .github/*
+
+python:
+  - '**/*.py'
+
+gitignore:
+  - '**/.gitignore'
